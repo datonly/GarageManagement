@@ -1,0 +1,35 @@
+C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\PBL3_QuanLyGaraOto_Nhom15\DAL\bin\Debug\DAL.dll.config
+C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\PBL3_QuanLyGaraOto_Nhom15\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\PBL3_QuanLyGaraOto_Nhom15\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\PBL3_QuanLyGaraOto_Nhom15\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\PBL3_QuanLyGaraOto_Nhom15\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\PBL3_QuanLyGaraOto_Nhom15\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\PBL3_QuanLyGaraOto_Nhom15\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\PBL3_QuanLyGaraOto_Nhom15\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\PBL3_QuanLyGaraOto_Nhom15\DAL\obj\Debug\DAL.Migrations.first.resources
+C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\PBL3_QuanLyGaraOto_Nhom15\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\PBL3_QuanLyGaraOto_Nhom15\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\PBL3_QuanLyGaraOto_Nhom15\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\PBL3_QuanLyGaraOto_Nhom15\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\PBL3_QuanLyGaraOto_Nhom15\DAL\obj\Debug\DAL.pdb
+C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\PBL3_QuanLyGaraOto_Nhom15\DAL\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\test pbl\PBL3_QuanLyGaraOto_Nhom15\DAL\bin\Debug\DAL.dll.config
+C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\test pbl\PBL3_QuanLyGaraOto_Nhom15\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\test pbl\PBL3_QuanLyGaraOto_Nhom15\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\test pbl\PBL3_QuanLyGaraOto_Nhom15\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\test pbl\PBL3_QuanLyGaraOto_Nhom15\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\test pbl\PBL3_QuanLyGaraOto_Nhom15\DAL\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\test pbl\PBL3_QuanLyGaraOto_Nhom15\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\test pbl\PBL3_QuanLyGaraOto_Nhom15\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\test pbl\PBL3_QuanLyGaraOto_Nhom15\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\test pbl\PBL3_QuanLyGaraOto_Nhom15\DAL\obj\Debug\DAL.Migrations.first.resources
+C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\test pbl\PBL3_QuanLyGaraOto_Nhom15\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\test pbl\PBL3_QuanLyGaraOto_Nhom15\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\test pbl\PBL3_QuanLyGaraOto_Nhom15\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\test pbl\PBL3_QuanLyGaraOto_Nhom15\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\test pbl\PBL3_QuanLyGaraOto_Nhom15\DAL\obj\Debug\DAL.pdb
+C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\test pbl\PBL3_QuanLyGaraOto_Nhom15\DAL\obj\Debug\DAL.Migrations.AddToPSC.resources
+C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\test pbl\PBL3_QuanLyGaraOto_Nhom15\DAL\obj\Debug\DAL.Migrations.AddTienUngtoCTPSC.resources
+C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\test pbl\PBL3_QuanLyGaraOto_Nhom15\DAL\obj\Debug\DAL.Migrations.convertIntToDoubleatSL.resources
+C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\test pbl\PBL3_QuanLyGaraOto_Nhom15\DAL\obj\Debug\DAL.Migrations.ConvertIntToDoubleAtSLPT.resources
+C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\test pbl\PBL3_QuanLyGaraOto_Nhom15\DAL\obj\Debug\DAL.Migrations.AddHashSetPSCToKH.resources
