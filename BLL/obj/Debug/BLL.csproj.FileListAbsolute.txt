@@ -34,3 +34,21 @@ C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\test pbl\PBL
 C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\test pbl\PBL3_QuanLyGaraOto_Nhom15\BLL\obj\Debug\BLL.csproj.CopyComplete
 C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\test pbl\PBL3_QuanLyGaraOto_Nhom15\BLL\obj\Debug\BLL.dll
 C:\Users\Admin\OneDrive - The University of Technology\Desktop\.NET\test pbl\PBL3_QuanLyGaraOto_Nhom15\BLL\obj\Debug\BLL.pdb
+E:\Clone\GarageManagement\BLL\bin\Debug\BLL.dll.config
+E:\Clone\GarageManagement\BLL\bin\Debug\BLL.dll
+E:\Clone\GarageManagement\BLL\bin\Debug\BLL.pdb
+E:\Clone\GarageManagement\BLL\bin\Debug\AutoMapper.dll
+E:\Clone\GarageManagement\BLL\bin\Debug\DAL.dll
+E:\Clone\GarageManagement\BLL\bin\Debug\EntityFramework.dll
+E:\Clone\GarageManagement\BLL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Clone\GarageManagement\BLL\bin\Debug\FontAwesome.Sharp.dll
+E:\Clone\GarageManagement\BLL\bin\Debug\DAL.pdb
+E:\Clone\GarageManagement\BLL\bin\Debug\DAL.dll.config
+E:\Clone\GarageManagement\BLL\bin\Debug\AutoMapper.xml
+E:\Clone\GarageManagement\BLL\bin\Debug\EntityFramework.xml
+E:\Clone\GarageManagement\BLL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Clone\GarageManagement\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Clone\GarageManagement\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Clone\GarageManagement\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Clone\GarageManagement\BLL\obj\Debug\BLL.dll
+E:\Clone\GarageManagement\BLL\obj\Debug\BLL.pdb
